@@ -1,0 +1,1 @@
+npx parcel build src/index.html --dist-dir docs --public-url https://nandesh-dev.github.io/piano-practice/

@@ -1,0 +1,24 @@
+23
+52/home/aoi/Documents/Projects/piano-practice/build.sh1696610817912281133 0
+50/home/aoi/Documents/Projects/piano-practice/src/js1696610179689433747 1
+68/home/aoi/Documents/Projects/piano-practice/src/styles/variables.css1696607489064190638 0
+54/home/aoi/Documents/Projects/piano-practice/src/styles1696607574547312890 1
+58/home/aoi/Documents/Projects/piano-practice/src/index.html1696610004698972853 0
+58/home/aoi/Documents/Projects/piano-practice/src/js/main.js1696609925406974434 0
+70/home/aoi/Documents/Projects/piano-practice/docs/index.b9d8bde6.js.map1696610619599739253 0
+43/home/aoi/Documents/Projects/piano-practice1696610617695782373 1
+67/home/aoi/Documents/Projects/piano-practice/docs/index.4f58bc2e.css1696610312970083391 0
+48/home/aoi/Documents/Projects/piano-practice/docs1696610823668207500 1
+59/home/aoi/Documents/Projects/piano-practice/docs/index.html1696610823668207500 0
+71/home/aoi/Documents/Projects/piano-practice/docs/index.6c431659.css.map1696610619599739253 0
+67/home/aoi/Documents/Projects/piano-practice/docs/index.ebd7f13c.css1696610312958083960 0
+67/home/aoi/Documents/Projects/piano-practice/docs/index.6c431659.css1696610619575739795 0
+47/home/aoi/Documents/Projects/piano-practice/src1696610320041751316 1
+71/home/aoi/Documents/Projects/piano-practice/docs/index.ebd7f13c.css.map1696610312986082633 0
+66/home/aoi/Documents/Projects/piano-practice/docs/index.b9d8bde6.js1696610619575739795 0
+66/home/aoi/Documents/Projects/piano-practice/docs/index.808ab032.js1696610312970083391 0
+70/home/aoi/Documents/Projects/piano-practice/docs/index.808ab032.js.map1696610312986082633 0
+71/home/aoi/Documents/Projects/piano-practice/docs/index.4f58bc2e.css.map1696610312986082633 0
+71/home/aoi/Documents/Projects/piano-practice/docs/index.d1d8bf6e.css.map1696610619599739253 0
+63/home/aoi/Documents/Projects/piano-practice/src/styles/main.css1696610015385993037 0
+67/home/aoi/Documents/Projects/piano-practice/docs/index.d1d8bf6e.css1696610619575739795 0
